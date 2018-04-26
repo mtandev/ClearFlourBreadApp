@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clear Flour Bread</string>
+    <string name="name">Clear Flour Bread</string>
+    <string name="location">178 Thorndike St,\n Brookline, MA 02446</string>
+    <string name="number">(617) 739-0060</string>
+    <string name="hours">Mon - Fri 8AM - 8PM\n Sat &amp; Sun 9AM - 7PM</string>
+    <string name="site"><a href="http://www.clearflourbread.com/">www.clearflourbread.com</a></string>
+</resources>
